@@ -1,6 +1,6 @@
 Name:           perl-Gnome2
 Version:        1.045
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Perl interface to the 2.x series of the GNOME libraries
 License:        LGPLv2
 Group:          Development/Libraries
@@ -64,6 +64,9 @@ make test
 %{_mandir}/man3/*
 
 %changelog
+* Fri Nov 25 2016 Ricardo Arguello <rarguello@deskosproject.org> - 1.045-2
+- Rebuilt for DeskOS
+
 * Tue Dec 10 2013 Petr Pisar <ppisar@redhat.com> - 1.045-1
 - 1.045 bump
 

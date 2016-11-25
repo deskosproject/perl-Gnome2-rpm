@@ -1,0 +1,6 @@
+= DeskOS: perl-Gnome2 RPM
+
+This is the _perl-Gnome2_ RPM package for the *DeskOS* operating system.
+
+Upstream comes from the NUX Dextop 7:
+http://li.nux.ro/download/nux/dextop/el7/SRPMS/perl-Gnome2-1.045-1.el7.nux.src.rpm[perl-Gnome2-1.045-1.el7.nux.src.rpm]
